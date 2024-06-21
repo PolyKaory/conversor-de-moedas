@@ -41,17 +41,18 @@ Para a Instalação desse aplicativo, é necessário ter instalado em sua máqui
 Para ter acesso do aplicativo em seu git hub ou em sua máquina, use o seguinte código:
  
 ```bash
-  git clone 
+  git clone https://github.com/PolyKaory/conversor-de-moedas
 ```
 
 ## Screenshots
 !<img src="image.png">
- 
+!<img src="cod.png">
+
  
 ## Aprendizados
  
 Com realização desse trabalho tivemos a oportunidade de obter um maior aprendizado a cerca do desenvolvimento da programação em python, com importações de bibliotecas, ensinamento de realização de funções e novos comandos, interligação de arquivos, customização de janelas, interligação de links e ocutar arquivos, além de aprendizados interdiciplinares, como o entendimento sobre conversoes monetários e o contato com as siglas oficiais de moedas. 
-Além disso, também aprendemos a utilizar a ferramenta GitHub, seus comandos básicos e como criar um repositório nesta ferramenta. 
+Além disso, também aprendemos a utilizar a ferramenta GitHub, seus comandos básicos e como criar um repositório. 
 ## Autores
  
 Alunos do V itinerário de Desenvolvimento de Sistemas - Grupo 2:
